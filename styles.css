@@ -10,3 +10,7 @@ body {
 .profileNameContainer {
     border: 1px red solid;
 }
+
+.profileLinksContainer {
+    border: solid 1px red;
+}
