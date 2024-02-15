@@ -1,17 +1,22 @@
 body {
     background: #ACE3DE;
     background-repeat: no-repeat;
+    height: 100%;
+}
+
+.profileImage {
+    border-radius: 80%;
 }
 
 .profileImageContainer {
     border: 1px solid red;
-    border-radius: 50%;
     display: flex;
     align-content: center;
+    justify-content: center;
 }
 
 .profileNameContainer {
-    border: 1px red solid;
+    font-size: 20px;
 }
 
 .profileLinksContainer {
