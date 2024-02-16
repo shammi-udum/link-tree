@@ -5,7 +5,8 @@ body {
 }
 
 .profileImage {
-    border-radius: 80%;
+    border-radius: 90%;
+    height: 50%;
 }
 
 .profileImageContainer {
@@ -17,6 +18,9 @@ body {
 
 .profileNameContainer {
     font-size: 20px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }
 
 .profileLinksContainer {
