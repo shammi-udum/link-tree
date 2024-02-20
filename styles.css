@@ -23,7 +23,7 @@ body {
     justify-content: center;
 }
 
-.profileLinksContainer {
+a {
     border: solid 1px red;
     padding: 10px;
     display: flex;
