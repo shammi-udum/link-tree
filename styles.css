@@ -32,4 +32,6 @@ a {
     background-color: darkgrey;
     text-decoration: none;
     font-size: 2em;
+    margin: 30px;
+    padding: 30px;
 }
